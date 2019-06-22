@@ -73,6 +73,7 @@ class Home extends Component {
                 </div>
               </a>
             )}
+            <div>加个鬼</div>
           </div>
           <style jsx>
             {`
@@ -82,6 +83,7 @@ class Home extends Component {
             color: #666;
           }
           .recommend_goods_content{
+            
             .recommend_goods_item{
               background-color: #fff;
               border-bottom: 1px solid #666;
